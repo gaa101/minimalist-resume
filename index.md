@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Welcome
+description: This is the home page
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
