@@ -1,5 +1,5 @@
 title: Gio's Resume
-logo: /assets/img/logo.png
+logo: /assets/img/logo1.png
 email: g.aprig3@gmail.com
 description: Academic honor-roll university student accomplished in artistic expression, with extensive work in design and advertising. Dependable, detailed-oriented individual with strong interpersonal skills seeking an opportunity that will allow exposure to creative directing, advertising and operations.
 show_downloads: false
@@ -9,6 +9,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
+url: https://gaa101.github.io/
+baseurl: /minimalist-resume/
 
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:
