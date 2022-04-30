@@ -50,7 +50,7 @@ Summer internship program in the Jackson Health System. Responsible for managing
 
 * * *
 
-[View some of my projects](./another-page.html).
+[View some of my projects](./project.html).
 
 <!-- ORG TEXT: -->
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
