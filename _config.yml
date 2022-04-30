@@ -16,7 +16,7 @@ baseurl: /minimalist-resume/
 sidebar:
   - name: Phone
     icon: <i class="fa-solid fa-phone"></i>
-    link: <a href="tel:305-775-3446"></a>
+    link: tel:305-775-3446
   - name: Portfolio
     icon: <i class="fa-solid fa-pen"></i>
     link: https://www.gioaprigliano.com
