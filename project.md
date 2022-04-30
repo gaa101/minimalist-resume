@@ -2,7 +2,7 @@
 layout: post
 ---
 
-## Welcome to another page
+## Preview some of my projects
 
 _yay_
 

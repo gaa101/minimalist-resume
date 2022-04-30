@@ -8,14 +8,6 @@ layout: default
 <p class="view">by {{ page.author | default: site.author }}</p>
 
 {{content}}
-
-{% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-{% endif %}
-
-<main id="content" class="main-content" role="main">
-  {{ content }}
-
   <!-- Create a loop// This allows for multiples (like a list) -->
   {% for block in site.data.news.story %}
   <div class="cards">
@@ -33,3 +25,8 @@ layout: default
   </div>
   {% endfor %}
   <!-- End of loop -->
+
+{% if page.tags %}
+  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
+

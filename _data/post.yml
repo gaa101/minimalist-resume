@@ -1,11 +1,11 @@
-resume:
-- image: "https://picsum.photos/200/200"
-  image-alt: Placeholder image 1
-  title: First Story Title
-  subtitle: First Story subtitle
-  story-content: First story content
-  tag-link: "http://google.com"
-  tag: Let's go to Google
+proj:
+- image: "https://uploads-ssl.webflow.com/61da2471fa0421235964721f/61de73b1918b084361c39f4e_AlimentumCover.jpg"
+  image-alt: Alimentum Cover
+  title: ALIMENTUM
+  subtitle: Art Direction • Branding
+  story-content: Developed a new brand & brand identity, aiming to find harmony between a bar and nature.
+  tag-link: "https://www.gioaprigliano.com/project/alimentum"
+  tag: View Project Here
 
 - image: "https://picsum.photos/200/200"
   image-alt: Placeholder image 2
