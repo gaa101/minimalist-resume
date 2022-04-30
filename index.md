@@ -5,18 +5,12 @@ layout: default
 # EDUCATION
 
 **Bachelor of Science** (1/2019 - present) @ _University of Miami_
-**Majors:** Advertising: Creative Track & Interactive Media
-**Minor:** Art/Art History
-
-
+*   **Majors:** Advertising: Creative Track & Interactive Media
+*   **Minor:** Art/Art History
 
 
 **Bachelor of Arts** (8/2018 – 12/2018) @ _Miami-Dade College_
-
-**Major:** Graphic Design
-
-
-
+*   **Major:** Graphic Design
 
 
 **High School Diploma** (5/2018) @ Christopher Columbus High School
