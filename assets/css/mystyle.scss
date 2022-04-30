@@ -28,11 +28,15 @@ body{
   }
 
 
-.projsection{
-    display:flex;
-    margin-bottom:1rem;
+.projsection {
+    display: flex;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
     border-bottom: solid 1px #ccc;
+    padding-bottom: 1rem;
+    align-items: center;
 }
+
 .ppic{
     margin-right:1.5rem;
 }
@@ -46,6 +50,6 @@ footer{
 }
 
 .colorfoot {
-        width: inherit;
+        width: 610px;
         height: 111px;
     }
