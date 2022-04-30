@@ -13,7 +13,7 @@ layout: default
 *   **Major:** Graphic Design
 
 
-**High School Diploma** (5/2018) @ Christopher Columbus High School
+**High School Diploma** (5/2018) @ _Christopher Columbus High School_
 
 # WORK EXPERIENCE
 
@@ -33,6 +33,19 @@ Responsible for conceptualizing and generating creative materials for clients ac
 
 Participated in a summer internship with a local design business specializing in party favor design that create personal connections. Responsible for designing new gift wrap patterns, posters, and editing client photos to incorporate into the creation of unique products specific to each client.
 
+
+**Communications Coordinator** (8/2019 - present) @ _Communications & Outreach/Jackson Health System_
+
+Responsible for managing assignments for internal and external communications at Jackson Health System, one of the nation’s premier healthcare organizations and the largest healthcare system in the state of Florida. Monitor and execute communications strategies that evolve designing for web, print, and other marketing medias. Granted this position at the conclusion of a summer internship, first participant in the history of the program to be offered this opportunity while still in an undergraduate degree program.
+
+**Assistant Art Director & Designer** (8/2019 - present) @ _Distraction Magazine_
+
+Distraction Magazine is a quarterly published, student-run magazine that is committed to defining the culture of University of Miami’s student body. Responsible for designing single or multiple spreads & sections, while assisting the Art and Creative Directors.
+
+
+**Intern** (6/2019 – 8/2019) @ _Communications & Outreach/Jackson Health System_
+
+Summer internship program in the Jackson Health System. Responsible for managing assignments for internal and external communications. Monitor and execute communication strategies that evolve designing for web, print, and other marketing medias.
 [View some of my projects](./another-page.html).
 
 <!-- ORG TEXT: -->
