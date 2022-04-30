@@ -1,0 +1,24 @@
+resume:
+- image: "https://picsum.photos/200/200"
+  image-alt: Placeholder image 1
+  title: First Story Title
+  subtitle: First Story subtitle
+  story-content: First story content
+  tag-link: "http://google.com"
+  tag: Let's go to Google
+
+- image: "https://picsum.photos/200/200"
+  image-alt: Placeholder image 2
+  title: Second Story Title
+  subtitle: Second Story subtitle
+  story-content: Second story content
+  tag-link: "http://google.com"
+  tag: Let's go to Google again
+
+- image: "https://picsum.photos/200/200"
+  image-alt: Placeholder image 3
+  title: Third Story Title
+  subtitle: Third Story subtitle
+  story-content: Third story content
+  tag-link: "http://google.com"
+  tag: Let's go to Google one more time
