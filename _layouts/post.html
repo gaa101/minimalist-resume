@@ -1,32 +1,82 @@
----
-layout: default
----
+{% case site.color-scheme %}
+  {% when "", nil, false, 0, empty %}
+    {% assign ColorScheme = "auto" %}
+  {% else %}
+    {% assign ColorScheme = site.color-scheme %}
+{% endcase %}
 
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
-<h1>{{ page.title }}</h1>
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<p class="view">by {{ page.author | default: site.author }}</p>
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/colors-ColorScheme.css?v=" | replace: "ColorScheme", ColorScheme | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Rokkitt:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Display:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    
 
-{{content}}
-  <!-- Create a loop// This allows for multiples (like a list) -->
-  {% for block in site.data.news.story %}
-  <div class="cards">
-    <div class="card">
-      <div class="pic">
-        <img src="{{block.image}}" alt="{{block.image-alt}}">
+    <link rel="preload" href="{{site.logo | relative_url}}" as="image">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+
+    <!-- MY CSS STYLE -->
+      <link rel="stylesheet" href="{{ "/assets/css/mystyle.css?v=" | append: site.github.build_revision | relative_url }}">
+
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="sidebar">
+        <header>
+          {% if site.logo %}
+            <img class="img-circle" src="/minimalist-resume/assets/img/logo1.png" alt="Logo">
+          {% endif %}
+
+          {% if site.blank_title %}
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          {% else %}
+            <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+          {% endif %}
+
+          {% if site.email %}
+            <p class="addr"><i class="fa-regular fa-envelope"></i>&nbsp;{{ site.email }}</p>
+          {% endif %}
+
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+          {% include sidebar.html %}
+
+        </header>
+
+        {% include links-mobile.html %}
+
+        <div class="sidebar-footer">
+          {%- include footer.html -%}
+        </div>
       </div>
-      <div class="content">
-        <h3 class="title">{{block.title}}</h3>
-        <h4>{{block.subtitle}}</h4>
-      <p>{{block.story-content}}</p>
-      <p><a href="{{block.tag-link}}">{{block.tag}}</a></p>
-      </div>
+      <section>
+
+      {{ content }}
+      
+        {%- include footer2.html -%}
+      
+
+      </section>
+      <footer>
+        {%- include footer.html -%}
+      </footer>
     </div>
-  </div>
-  {% endfor %}
-  <!-- End of loop -->
-
-{% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-{% endif %}
-
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
