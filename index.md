@@ -48,6 +48,7 @@ Distraction Magazine is a quarterly published, student-run magazine that is comm
 
 Summer internship program in the Jackson Health System. Responsible for managing assignments for internal and external communications. Monitor and execute communication strategies that evolve designing for web, print, and other marketing medias.
 
+* * *
 
 [View some of my projects](./another-page.html).
 
