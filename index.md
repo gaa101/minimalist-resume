@@ -2,8 +2,16 @@
 layout: default
 ---
 
+# EDUCATION
+
+**Bachelor of Science**
+_University of Miami_
+1/2019 - present
+Majors: Advertising: Creative Track & Interactive Media
+Minor: Art/Art History
 
 
+[View some of my projects](./another-page.html).
 <!-- ORG TEXT: -->
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
