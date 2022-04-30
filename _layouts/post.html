@@ -69,6 +69,23 @@
 
       {{ content }}
       
+      {% for block in site.data.post.proj %}
+      <div class="projsections">
+        <div class="projsection">
+          <div class="ppic">
+            <img src="{{block.image}}" alt="{{block.image-alt}}">
+          </div>
+          <div class="content">
+            <h3 class="title">{{block.title}}</h3>
+            <h4>{{block.subtitle}}</h4>
+          <p>{{block.story-content}}</p>
+          <p><a href="{{block.tag-link}}">{{block.tag}}</a></p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+      <!-- End of loop -->
+      
         {%- include footer2.html -%}
       
 
