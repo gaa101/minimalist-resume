@@ -15,6 +15,8 @@ layout: default
 
 **High School Diploma** (5/2018) @ _Christopher Columbus High School_
 
+* * *
+
 # WORK EXPERIENCE
 
 **Student Manager** (8/2021 – present) @ _University Rathskeller, Inc._
@@ -22,11 +24,9 @@ layout: default
 The Rathskeller is a popular on-campus bar & restaurant which is financed, designed and operated by students and patronized by university faculty & staff students, alumni and the general public. Responsible for managing daily operations to include staffing, all aspects of both front and rear of house tasks, revenue reconciliation and securing of premises at the conclusion of each shift. Promoted to this position within three years after working other roles in the business.
 
 
-
 **Graphic Designer** (1/2020 – 8/2021) @ _Orange Umbrella Miami_
 
 Responsible for conceptualizing and generating creative materials for clients across a variety of media including web, social, print, and more. Having experience in designing full brand guidelines and multi-platform campaigns to help build clients’ businesses.
-
 
 
 **Intern** (7/2020 – 8/2020) @ _Gift Wrap My Face_
@@ -38,6 +38,7 @@ Participated in a summer internship with a local design business specializing in
 
 Responsible for managing assignments for internal and external communications at Jackson Health System, one of the nation’s premier healthcare organizations and the largest healthcare system in the state of Florida. Monitor and execute communications strategies that evolve designing for web, print, and other marketing medias. Granted this position at the conclusion of a summer internship, first participant in the history of the program to be offered this opportunity while still in an undergraduate degree program.
 
+
 **Assistant Art Director & Designer** (8/2019 - present) @ _Distraction Magazine_
 
 Distraction Magazine is a quarterly published, student-run magazine that is committed to defining the culture of University of Miami’s student body. Responsible for designing single or multiple spreads & sections, while assisting the Art and Creative Directors.
@@ -46,6 +47,8 @@ Distraction Magazine is a quarterly published, student-run magazine that is comm
 **Intern** (6/2019 – 8/2019) @ _Communications & Outreach/Jackson Health System_
 
 Summer internship program in the Jackson Health System. Responsible for managing assignments for internal and external communications. Monitor and execute communication strategies that evolve designing for web, print, and other marketing medias.
+
+
 [View some of my projects](./another-page.html).
 
 <!-- ORG TEXT: -->
