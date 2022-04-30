@@ -7,18 +7,42 @@ proj:
   tag-link: "https://www.gioaprigliano.com/project/alimentum"
   tag: View Project Here
 
-- image: "https://picsum.photos/200/200"
-  image-alt: Placeholder image 2
-  title: Second Story Title
-  subtitle: Second Story subtitle
-  story-content: Second story content
-  tag-link: "http://google.com"
-  tag: Let's go to Google again
+- image: "https://uploads-ssl.webflow.com/61da2471fa0421235964721f/61de428f4fe9344255df1c91_Churches_TypeUserGuideIcon.jpg"
+  image-alt: Churches Cover
+  title: CHURCHES
+  subtitle: Typeface Design
+  story-content: Custom decorative display font that takes inspiration from gothic script.
+  tag-link: "https://www.gioaprigliano.com/project/churches"
+  tag: View Project Here
 
-- image: "https://picsum.photos/200/200"
-  image-alt: Placeholder image 3
-  title: Third Story Title
-  subtitle: Third Story subtitle
-  story-content: Third story content
-  tag-link: "http://google.com"
-  tag: Let's go to Google one more time
+- image: "https://uploads-ssl.webflow.com/61da2471fa0421235964721f/61e1263a32bfa72b209b4a85_Aubi%26RamsaCover.jpg"
+  image-alt: A&R Cover
+  title: AUBI & RAMSA
+  subtitle: Creative Direction • Brand Campaign
+  story-content: Lead a team of creatives to create an advertising campaign to promote 21+ alcoholic ice cream.
+  tag-link: "https://www.gioaprigliano.com/project/aubi-ramsa"
+  tag: View Project Here
+
+- image: "https://uploads-ssl.webflow.com/61da2471fa0421235964721f/61db72b9677849c9fce01aa9_VINOCardGame_DeckCover-p-3200.jpeg"
+  image-alt: Vino Cover
+  title: VINO
+  subtitle: Game Design
+  story-content: A card game for wine lovers that brings a new twist to the classic UNO game.
+  tag-link: "https://www.gioaprigliano.com/project/vino"
+  tag: View Project Here
+
+- image: "https://uploads-ssl.webflow.com/61da2471fa0421235964721f/61e112eaa5217547719c65bc_BiasBlock_VideoCover-01-p-2000.png"
+  image-alt: Bias Block Cover
+  title: BIAS BLOCK
+  subtitle: Art Direction • Design
+  story-content: Tasked to develop an idea that not only raises awareness of skin cancer, specifically melanoma, in people of color around the globe, but also helps to drive diagnosis to allow people to receive the treatments they need.
+  tag-link: "https://www.gioaprigliano.com/project/bias-block"
+  tag: View Project Here
+
+- image: "https://uploads-ssl.webflow.com/61da2471fa0421235964721f/6250d4b9aac5a8ea32358aa6_SpotifySocietyCover%202-p-2000.png"
+  image-alt: Spotify Cover
+  title: SPOTIFY
+  subtitle: Interactive Media • UX/UI Design
+  story-content: Spotify Society is a prototype exploring how Spotify can tap into each user’s personal reach or influence, as well as how to make it into a more personable experience and a platform to connect with others.
+  tag-link: "https://www.gioaprigliano.com/project/spotify"
+  tag: View Project Here
