@@ -2,6 +2,6 @@
 layout: post
 ---
 
-## Preview some of my projects
+## Preview some of my projects...
 
 [Return Home](./)
