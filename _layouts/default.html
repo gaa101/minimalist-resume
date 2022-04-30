@@ -19,14 +19,18 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
       <link href="https://fonts.googleapis.com/css2?family=Rokkitt:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-    <!-- MY STYLE -->
-      <!-- <link rel="stylesheet" href="{{ /assets/css/myStyle.scss }}"> -->
-      <link rel="stylesheet" href="{{ "/assets/css/myStyle.css?v=" | append: site.github.build_revision | relative_url }}">
+    
 
     <link rel="preload" href="{{site.logo | relative_url}}" as="image">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+
+    <!-- MY STYLE -->
+      <!-- <link rel="stylesheet" href="{{ /assets/css/myStyle.scss }}"> -->
+      <!-- <link rel="stylesheet" href="{{ "/assets/css/myStyle.css?v=" | append: site.github.build_revision | relative_url }}"> -->
+      <link rel="stylesheet" href="{{'/assets/css/myStyle.css?v=' | append: site.github.build_revision | relative url}}">
+
     {% include head-custom.html %}
   </head>
   <body>
