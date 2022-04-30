@@ -5,7 +5,6 @@ layout: default
 # EDUCATION
 
 **Bachelor of Science** (1/2019 - present) @ _University of Miami_
-
 **Majors:** Advertising: Creative Track & Interactive Media
 **Minor:** Art/Art History
 
